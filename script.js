@@ -1,0 +1,1 @@
+console.log('Declaracao de variavel!')
